@@ -137,7 +137,7 @@ desert / water / green_area / cloudy
 * Shows confidence score
 
 Example:
-
+![Desert satellite image](images/desert.png)
 ```
 🖼️ Showing image from class: desert  
 🤖 Model prediction: desert (93.45% confidence)
