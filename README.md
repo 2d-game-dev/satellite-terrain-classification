@@ -103,6 +103,8 @@ These are plotted after training:
 
 📈 **Training vs Validation Loss Curve**
 
+<img width="567" height="455" alt="graph_Train_Val" src="https://github.com/user-attachments/assets/5d36f12d-3592-4e35-b76e-6a23d317ea68" />
+
 This helps detect:
 
 * Overfitting
